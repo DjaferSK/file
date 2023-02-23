@@ -1,6 +1,4 @@
 # file
-read readme (там код для номера 9)
-import random
 from tkinter import *
 from random import randint
 def spawn():
